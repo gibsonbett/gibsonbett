@@ -1,4 +1,4 @@
-# Gibson Kiprotich Bett
+# # Hello, I'm Gibson Kiprotich Bett 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/gibubett/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blueviolet)](https://github.com/gibsonbett)
