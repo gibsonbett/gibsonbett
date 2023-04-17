@@ -33,5 +33,5 @@ I am a Full-Stack Software Developer with over a year of experience in programmi
 
 ## Projects
 
-- [Pioneer Bookshop Managers](https://pioneer-managers.netlify.app/pioneer-bookshop-managers) - An E-commerce website used to manage a bookshop. The website is made using React and custom CSS for the frontend and Ruby on Rails for the backend. Managers can add, edit, or delete employees and stationery. An employee can only make and view transactions they made.
+- [Pioneer Bookshop Managers](https://pioneer-managers.netlify.app/) - An E-commerce website used to manage a bookshop. The website is made using React and custom CSS for the frontend and Ruby on Rails for the backend. Managers can add, edit, or delete employees and stationery. An employee can only make and view transactions they made.
 - [Devspedia](http://devspedia-frontend.vercel.app/) - A blog website application that offers web development students a place to publish articles and track their experience. Any internet user can subscribe to access more content.
